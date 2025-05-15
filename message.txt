@@ -1,4 +1,2 @@
-This version of Hankus Macro is outdated
-Join the Moto For Netti Discord server and get
-the most recent version in the macro-bilesti channel
-If u press start using this version of the macro it will get stuck and not work
+This version of Macro is outdated
+If u press start using this version of the macro it might not work as expected
